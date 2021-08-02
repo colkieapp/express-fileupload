@@ -10,7 +10,7 @@
     "coveralls": "cat ./coverage/lcov.info | coveralls"
   },
   "dependencies": {
-    "busboy": "git+https://github.com/colkieapp/busboy.git"
+    "@colkie/busboy": "git+ssh://github.com/colkieapp/busboy.git"
   },
   "engines": {
     "node": ">=8.0.0"
